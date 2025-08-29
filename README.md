@@ -21,4 +21,4 @@ I am passionate about utilizing the application of modern machine learning to ou
 
 I am eager to connect with professionals and other students in tech, neuroscience, and related fields. I am actively seeking internship opportunities that will allow me to contribute my unique skill set and explore the possibilities of the convergence of artificial intelligence and neuroscience.
 
-I am best reached by email: wanta.m@northeastern.edu
+I am best reached by email: wanta.m@northeastern.edu or mewanta@icloud.com
