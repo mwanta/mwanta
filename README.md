@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello! I'm Meredith Wanta, a student at Northeastern Univerity
 
 <!--
 **mwanta/mwanta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,6 +6,15 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
+
+I'm currently pursuing a degree in Computer Science and Neuroscience. 
+
+I am passionate about utilizing the application of modern machine learning to our understanding of the brain as a way to help others. For this reason, when I graduate I will be pursuing a career in research areas such as brain-machine interface, neural networks, and cognitive computing.
+
+I am eager to connect with professionals and other students in tech, neuroscience, and related fields. I am actively seeking internship opportunities that will allow me to contribute my unique skill set and explore the possibilities of the convergence of artificial intelligence and neuroscience.
+
+I am best reached by email: wanta.m@northeastern.edu
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
