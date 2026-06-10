@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm currently pursuing a degree in Computer Science and Neuroscience. 
+I'm currently pursuing a degree in Computer Science and Neuroscience with a minor in Mathematics. 
 
-I am passionate about utilizing the application of modern machine learning to our understanding of the brain as a way to help others. For this reason, when I graduate I will be pursuing a career in research areas such as brain-machine interface technology, neural networks, and cognitive computing.
+I am passionate about utilizing the application of modern machine learning to our understanding of the brain as a way to help others. For this reason, when I graduate I will be pursuing a career in research areas such as brain-machine interface technology and cognitive computing.
 
 I am eager to connect with professionals and other students in tech, neuroscience, and related fields. I am actively seeking internship opportunities that will allow me to contribute my unique skill set and explore the possibilities of the convergence of artificial intelligence and neuroscience.
 
