@@ -23,4 +23,4 @@ I am eager to connect with professionals and other students in tech, neuroscienc
 
 I am best reached by email: wanta.m@northeastern.edu or mewanta@icloud.com
 
-mwanta.github.io/ 
+[mwanta.github.io/ ](https://mwanta.github.io)
